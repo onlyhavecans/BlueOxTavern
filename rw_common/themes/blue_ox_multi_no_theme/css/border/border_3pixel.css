@@ -1,0 +1,20 @@
+#container,
+code {
+	border-width: 3px;
+}
+
+#navcontainer a,
+#navcontainer a:hover {
+	border-bottom-width: 1px;
+}
+
+
+#pageHeader  {
+	border-bottom-width: 3px;
+}
+
+#breadcrumbcontainer  {
+	border-top-width: 3px;
+}
+
+/* www.multithemes.com */

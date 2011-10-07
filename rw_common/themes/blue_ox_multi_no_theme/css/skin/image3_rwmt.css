@@ -1,0 +1,28 @@
+#container_image {
+	background-image: none;
+}
+
+#pageHeader {
+	background: url(../../images/editable_images/image3.jpg) repeat-x 0px 0px;
+}
+
+/* @group ...... */
+
+#container {
+
+}
+
+#navcontainer {
+	position: relative;
+	top: 0;
+}
+
+/* 0 */
+
+#navcontainer ul{
+	list-style: none;
+}
+
+/* @end */
+
+/* www.multithemes.com */

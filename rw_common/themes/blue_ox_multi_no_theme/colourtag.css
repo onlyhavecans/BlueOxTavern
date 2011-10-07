@@ -1,0 +1,242 @@
+/* colours rapidweaver 3.6 - Multithemes */
+
+/* @group Text Colour Title and Slogan */
+
+#pageHeader h1{
+	color: #D1EAFF;
+}
+
+#pageHeader h2
+{
+	color: #FFFFFF;
+}
+
+
+
+/* @end */
+
+/* @group Text Colour  */
+
+.album-title,
+.movie-page-title,
+.filesharing-item-title,
+.standout, blockquote {
+	color: #CCCCCC;
+}
+
+/* SIngle------ */
+
+.photo-title,
+.photo-caption,
+.photo-frame,
+.exif-data p {
+	color: #FFFFFF;
+}
+
+#contentContainer,
+#footer,
+#sidebarContainer,
+.exif-data,
+#sidebarContainer .sideHeader,
+#sidebarContainer .lastpublished,
+.standout, #sidebar blockquote {
+	color: #FFFFFF;
+}
+
+.photo-links {
+ color: #00356B;
+}
+
+.exif-data {
+background-color: #00356B;
+}
+
+.exif-data p {
+border-bottom-color: #004080;
+}
+
+/* SIngle------ */
+
+/* Borders Below */
+
+.album-title,
+.movie-page-title,
+.filesharing-item-title a:link,
+.blog-entry-date,
+#navcontainer2 a{
+	border-bottom-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+}
+
+
+#contentContainer,
+#footer  {
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+}
+
+table, code  {
+	border-left-color: #D8D8D8;
+	border-right-color: #D8D8D8;
+	border-top-color: #D8D8D8;
+	border-bottom-color: #D8D8D8;
+	color: #D8D8D8;
+}
+
+/* 	background-color: #004C99;*/
+
+td  {
+	border-left-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+
+/* @end */
+
+/* @group Text Colour -Toolbar */
+
+#navcontainer a,
+#navcontainer ul ul ul li a,
+#navcontainer .currentAncestor,
+#navcontainer ul ul .currentAncestor,
+#navcontainer ul ul ul .currentAncestor{	
+color: #66FFFF;
+}
+
+#navcontainer ul ul a  {
+	color: #5BE5E5;
+}
+#navcontainer ul ul ul a {
+	color: #56D8D8;
+}
+#navcontainer ul ul ul ul a,
+#navcontainer ul ul ul ul ul a {
+	color: #51CCCC;
+}
+
+/* end normal */
+
+#navcontainer a:hover,
+#navcontainer a:active,
+#navcontainer .current,
+
+#navcontainer ul .current,
+#navcontainer ul #current,
+#navcontainer ul ul a:hover,
+#navcontainer ul ul a:active,
+#navcontainer ul ul .current,
+#navcontainer ul ul #current   
+
+#navcontainer ul ul ul a:hover,
+#navcontainer ul ul ul a:active,
+#navcontainer ul ul ul .current
+{	
+color: #0080FF;
+}
+
+/* end over */
+
+
+
+/* @end */
+
+/* @group Text links  */
+
+#breadcrumbcontainer li {
+	color: #56D8D8;
+}
+
+a:link {
+	color: #66FFFF;
+}
+
+/* www.multithemes.com */
+
+/* @end */
+
+/* @group Text links highlight */
+
+.thumbnail-frame:hover,
+.movie-thumbnail-frame:hover   {
+	color: #0080FF;
+
+}
+
+a:hover, a:active, a:visited   {
+	color: #0080FF;
+}
+
+.blog-archive-link-enabled,
+.blog-category-link-enabled,
+.blog-entry-permalink a:visited   {
+	color: #0080FF;
+
+}
+
+/* www.multithemes.com */
+
+/* @end */
+
+/* @group content COLOR colour_content_background */
+
+/* container and background in all pages */
+
+#pageHeader,
+#container,
+#container_image,
+.photo-background,
+#footer  {
+background-color: #004080;	
+}
+
+/* www.multithemes.com */
+
+
+/* @end */
+
+/* @group Background COLOR colour_body_background */
+
+/* container and background in all pages */
+
+body,
+#body_image,
+.movie-background {
+background-color: #004080;	
+}
+
+/* www.multithemes.com */
+
+
+
+/* @end */
+
+/* @group Border */
+
+#container,
+#pageHeader,
+#breadcrumbcontainer,
+#navcontainer,
+#navcontainer a,
+code {
+	border-left-color: #2555AB;
+	border-right-color: #2555AB;
+	border-top-color: #2555AB;
+	border-bottom-color: #2555AB;
+}
+
+#navcontainer a:hover,
+#navcontainer #current, {
+	border-bottom-color: #2C66CD;
+	
+}
+
+/* www.multithemes.com */
+
+
+
+/* @end */
+
+
+
+

@@ -1,0 +1,82 @@
+/* fix IE6 */
+
+/* @group H */
+
+h5 {	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 16px;
+}
+
+h4 {	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 18px;
+}
+
+h3 {	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 22px;
+}
+
+h2 {	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 24px;
+}
+
+h1 {	
+	padding-top: 0;
+	margin-top: 0;
+	line-height: 33px;
+}
+
+
+
+/* @end */
+
+#pageHeader h1 {
+	padding: 44px 0 0 30px;
+}
+
+#pageHeader h2 {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+/* @group fix footer */
+
+#footer {
+	margin: 0;
+	padding: 0;
+	line-height: 1em;
+}
+
+#footer p {
+	margin: 0 0 5px;
+	padding: 7px;
+	line-height: 1em;
+}
+
+/* @end */
+
+/* @group fix bread crumb */
+
+#breadcrumbcontainer {
+	padding-top: 4px;
+	padding-bottom: 5px;
+}
+
+#breadcrumbcontainer ul {
+	margin: 0;
+	padding: 0;
+}
+
+#breadcrumbcontainer li {
+	margin: 0;
+	padding: 0;
+}
+	
+/* @end */
+

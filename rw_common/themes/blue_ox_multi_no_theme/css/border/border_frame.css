@@ -1,0 +1,20 @@
+#container,
+code {
+	border-style: solid;
+}
+
+#navcontainer a,
+#navcontainer a:hover {
+	border-bottom-style: none;
+}
+
+
+#pageHeader  {
+	border-bottom-style: none;
+}
+
+#breadcrumbcontainer  {
+	border-bottom-style: none;
+}
+
+/* www.multithemes.com */

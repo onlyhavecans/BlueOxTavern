@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DigestAlgorithm</key>
+	<string>MD5</string>
+	<key>Pages</key>
+	<dict>
+		<key>rw:plugin:accordion</key>
+		<dict>
+			<key>CreationDate</key>
+			<date>2011-10-07T19:05:34Z</date>
+			<key>DigestAlgorithm</key>
+			<string>MD5</string>
+			<key>DocumentGUID</key>
+			<string>2A90C5B6-7642-42FD-8579-DF0B67341EDD</string>
+			<key>PageDigests</key>
+			<dict>
+				<key>accordion.css</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					5Z+ymNTZoUky7ehMSms1iQ==
+					</data>
+					<key>Size</key>
+					<integer>478</integer>
+				</dict>
+				<key>accordion.js</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					qKGyxTLLdidbS8FnFAOSGA==
+					</data>
+					<key>Size</key>
+					<integer>2010</integer>
+				</dict>
+				<key>mootools-1.2.3.js</key>
+				<dict>
+					<key>Digest</key>
+					<data>
+					EjGWc9wlE6nHMGFNoNpLGg==
+					</data>
+					<key>Size</key>
+					<integer>163005</integer>
+				</dict>
+			</dict>
+			<key>PageID</key>
+			<string>rw:plugin:accordion</string>
+			<key>Version</key>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>
