@@ -48,7 +48,8 @@ img {
 #container_image {
 }
 
-#container {	text-align: left;
+#container {
+	text-align: left;
 	position: relative;
 	top: 35px;
 	padding: 0;
@@ -110,12 +111,20 @@ img {
 	padding: 12px 9px 9px;
 	position: relative;
 	z-index: 1;
+	text-align: center;
 }
 
-#sidebarContainer .sideHeader {
+#sidebar h3 {
+	font: 24px Times, Georgia, Courier, serif;
 	font-weight: bold;
-	text-align: center;
-	padding: 15px 10px 5px;
+	padding: 0px;
+	margin-bottom: 0px;
+}
+
+#sidebar p {
+	font: 12px Times, Georgia, Courier, serif;
+	padding-bottom: 15px;
+	margin-top: 0;
 }
 
 #footer {
@@ -174,7 +183,7 @@ img {
 	position: relative;
 	top: 0;
 	display: block;
-	font-size: 11px;
+	font-size: 12px;
 	margin-right: 10px;
 	margin-left: 10px;
 	line-height: 1.8em;
@@ -477,17 +486,24 @@ ol.arabic-numbers {
 
 .blog-entry-summary {
 	margin-bottom: 10px;
-}.blog-archive-headings-wrapper {}
+}
+
+.blog-archive-headings-wrapper {
+}
 
 .blog-archive-entries-wrapper {
 }
 
 .blog-archive-entries-wrapper .blog-entry {
-}.blog-archive-month {
+}
+
+.blog-archive-month {
 }
 
 .blog-archive-link {
-}.blog-archive-link a:link, .blog-archive-link a:visited {
+}
+
+.blog-archive-link a:link, .blog-archive-link a:visited {
 }
 	
 /* @end */
@@ -986,7 +1002,8 @@ p.exif-user-comment {
 
 /* @group quicktime album */
 
-.movie-page-title {	font-size: 1.6em;
+.movie-page-title {
+	font-size: 1.6em;
 	font-weight: bold;
 	text-align: left;
 	margin-bottom: 5px;
